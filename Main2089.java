@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Main2089 {
 
-```
+
 public static List<Integer> targetIndices(int[] nums, int target) {
     int smaller = 0;
     int equal = 0;
